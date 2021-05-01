@@ -6,7 +6,7 @@ I'm a trilingual software engineer and fintech aficionado with a strong interest
 
 I'm looking for full or part-time role as a software engineer at a mission driven company that fully embraces remote work. 
 
-I have two weeks left as a full-time fellow in General Asembly's Software Engineering Immersive program, that has taught me how to build full-stack web applications with the MERN stak: MongoDB, Express, React, Node. 
+I have two weeks left as a full-time fellow in General Asembly's Software Engineering Immersive program, that has taught me how to build full-stack web applications with the MongoDB, Express, React, Node stack. 
 
 ### School Projects 
 
