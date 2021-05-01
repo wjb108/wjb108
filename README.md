@@ -16,13 +16,9 @@ I have two weeks left as a full-time fellow in General Asembly's Software Engine
 
 In parallel
 - 🔭 I’m currently building with a team of creatives: 
-
-🛍️🛒 [Localsumer](https://www.localsumer.com/) 
-
-💻🖌️ [Flekora](https://weareflekora.com/) 
-
-💳💥 [Lanissimo](https://lanissimo.com/) 
-
+  🛍️🛒 [Localsumer](https://www.localsumer.com/) 
+  💻🖌️ [Flekora](https://weareflekora.com/) 
+  💳💥 [Lanissimo](https://lanissimo.com/) 
 - 🌱 I’m learning and growing
 - 📫 How to reach me: [Twitter](https://twitter.com/WILLBENEDICT) [Linkedin](https://www.linkedin.com/in/willbenedict/)
 - 😄 Pronouns: he/him
