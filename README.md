@@ -1,12 +1,12 @@
-### Hi there 👋
 [![Header](https://media-exp1.licdn.com/dms/image/C4E16AQEXibX7-blpxw/profile-displaybackgroundimage-shrink_350_1400/0/1588017759908?e=1625097600&v=beta&t=-TG-6e55YRj2S4rgwKSJD4otk5n0yCoUJMLsJVMGw60 "Header")](https://www.linkedin.com/in/willbenedict/)
 
-
+### Hi there 👋
+I'm a software engineer leveraging experience in research analytics with a strong interest in building digital services that create social impact. I am a detail-oriented person with a background in startups, credit research, equity markets, and project financing. 
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
+- 🔭 I’m currently building 🛍️🛒[Localsumer](https://www.localsumer.com/) 💻[🖌️Flekora](https://weareflekora.com/) 💳💥[Lanissimo](https://lanissimo.com/) 
+- 🌱 I’m currently learning to build full-stack web applications 
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
