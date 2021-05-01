@@ -20,11 +20,11 @@ I have two weeks left as a full-time fellow in General Asembly's Software Engine
 
 ### Startups currently building with a team of creatives: 
   
-  🛍️ 🛒 [Localsumer](https://www.localsumer.com/) 
+  🛍️ [Localsumer](https://www.localsumer.com/) 
   
-  💻 🖌️ [Flekora](https://weareflekora.com/) 
+  🖌️ [Flekora](https://weareflekora.com/) 
   
-  💳 💥 [Lanissimo](https://lanissimo.com/) 
+  💳 [Lanissimo](https://lanissimo.com/) 
 
 😄 Pronouns: he/him
 
