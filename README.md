@@ -1,7 +1,7 @@
 [![Header](https://media-exp1.licdn.com/dms/image/C4E16AQEXibX7-blpxw/profile-displaybackgroundimage-shrink_350_1400/0/1588017759908?e=1625097600&v=beta&t=-TG-6e55YRj2S4rgwKSJD4otk5n0yCoUJMLsJVMGw60 "Header")](https://www.linkedin.com/in/willbenedict/)
 
 ### Hi there 👋
-I'm a trilingual software engineer and fintech aficionado leveraging experience in research analytics with a strong interest in building digital services that create social impact. I am a detail-oriented analytical person with a background in startups, credit research, equity markets, and oil & gas and mining sector project financing in Italy, Mexico, and Colombia. My recent focus is on building digital services for the Mexican market.
+I'm a trilingual software engineer and fintech aficionado leveraging experience in research analytics with a strong interest in building digital services that create social impact. I am a detail-oriented analytical person with a background in startups, credit research, equity markets, and oil & gas and mining sector project financing in Italy, Mexico, and Colombia. My recent focus is on building digital services for emerging markets.
 
 I have two weeks left as a full-time fellow in General Asembly's Software Engineering Immersive program that utilizes hands-on approach to build full-stack web applications with the MongoDB, Express, React, Node (MERN) stack. 
 
