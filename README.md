@@ -3,7 +3,7 @@
 ### Hi there 👋
 I'm a trilingual software engineer and fintech aficionado leveraging experience in research analytics with a strong interest in building digital services that create social impact. I am a detail-oriented analytical person with a background in startups, credit research, equity markets, and oil & gas and mining sector project financing in Italy, Mexico, and Colombia. My recent focus is on building digital services for the Mexican market.
 
-I have two weeks left as a full-time fellow in General Asembly's Software Engineering Immersive program that utilizes hands-on approach to design and build web applications with full CRUD functionality through Javascript, React, Express, SQL, HTML, CSS, Ruby, Rails, and Sequelize. 
+I have two weeks left as a full-time fellow in General Asembly's Software Engineering Immersive program that utilizes hands-on approach to build web applications with full CRUD functionality through Javascript, React, Express, SQL, HTML, CSS, Ruby, Rails, and Sequelize. 
 
 I'm looking for full-time role as a software engineer at a mission driven company company that fully embraces remote work. 
 
