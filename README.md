@@ -23,9 +23,9 @@ I have two weeks left as a full-time fellow in General Asembly's Software Engine
   🛍️ [Localsumer](https://www.localsumer.com/): The go-to platform for consumers to discover all the local products and services in their city and the frictionless onboard ramp to the digital economy, ecommerce, and formal credit for small businesses.
 
   
-  🖌️ [Flekora](https://weareflekora.com/) 
+  🖌️ [Flekora](https://weareflekora.com/): A boutique design agency that solves business problems with custom design.
   
-  💳 [Lanissimo](https://lanissimo.com/) 
+  💳 [Lanissimo](https://lanissimo.com/): Consumer microloan subscription service for women in Mexico that builds formal credit history. 
 
 😄 Pronouns: he/him
 
