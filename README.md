@@ -1,5 +1,5 @@
 ### Hi there 👋
-[![Header](https://www.linkedin.com/in/willbenedict/detail/background-image/ "Header")](https://www.linkedin.com/in/willbenedict/)
+[![Header](https://media-exp1.licdn.com/dms/image/C4E16AQEXibX7-blpxw/profile-displaybackgroundimage-shrink_350_1400/0/1588017759908?e=1625097600&v=beta&t=-TG-6e55YRj2S4rgwKSJD4otk5n0yCoUJMLsJVMGw60 "Header")](https://www.linkedin.com/in/willbenedict/)
 
 <!--
 **wjb108/wjb108** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
