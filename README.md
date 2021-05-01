@@ -1,4 +1,5 @@
 ### Hi there 👋
+[![Header](https://pbs.twimg.com/profile_banners/43240255/1597844625/1500x500 "Header")](https://www.linkedin.com/in/willbenedict/)
 
 <!--
 **wjb108/wjb108** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
