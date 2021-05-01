@@ -22,9 +22,13 @@ I have two weeks left as a full-time fellow in General Asembly's Software Engine
   💻 🖌️ [Flekora](https://weareflekora.com/) 
   
   💳 💥 [Lanissimo](https://lanissimo.com/) 
+
 🌱 I’m learning and growing
+
 📫 How to reach me: [Twitter](https://twitter.com/WILLBENEDICT) [Linkedin](https://www.linkedin.com/in/willbenedict/)
+
 😄 Pronouns: he/him
+
 ⚡ Fun fact: 🥐 Baker 🍞 Fluent in Spanish and Italian 🌎 Lived abroad for 5 years 
 
 <!--- 
