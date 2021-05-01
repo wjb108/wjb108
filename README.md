@@ -3,11 +3,9 @@
 ### Hi there 👋
 I'm a trilingual software engineer and fintech aficionado leveraging experience in research analytics with a strong interest in building digital services that create social impact. I am a detail-oriented analytical person with a background in startups, credit research, equity markets, and oil & gas and mining sector project financing in Italy, Mexico, and Colombia. My recent focus is on building digital services for the Mexican market.
 
-I have two weeks left as a full-time fellow in General Asembly's Software Engineering Immersive program that utilizes hands-on approach to build web applications with full CRUD functionality through Javascript, React, Express, SQL, HTML, CSS, Ruby, Rails, and Sequelize. 
+I have two weeks left as a full-time fellow in General Asembly's Software Engineering Immersive program that utilizes hands-on approach to build full-stack web applications with the MongoDB, Express, React, Node (MERN) stack. 
 
-I'm looking for full-time role as a software engineer at a mission driven company company that fully embraces remote work. 
-
-Here are some ideas to get you started:
+I'm looking for full or part-time role as a software engineer at a mission driven company that fully embraces remote work. 
 
 - 🔭 I’m currently building 🛍️🛒 [Localsumer](https://www.localsumer.com/) 💻🖌️ [Flekora](https://weareflekora.com/) 💳💥 [Lanissimo](https://lanissimo.com/) with a team of creatives
 - 🌱 I’m learning and growing
