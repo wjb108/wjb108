@@ -6,6 +6,7 @@ I'm a trilingual software engineer and fintech aficionado with a strong interest
 I have two weeks left as a full-time fellow in General Asembly's Software Engineering Immersive program, that teaches how to build full-stack web applications with the MongoDB, Express, React, Node (MERN) stack. ### Projects 
 
 📍 [Render a Dynamic Map](https://github.com/wjb108/Mapbox-Dynamic-Map-API)
+
 🥡 [Taco Order System](https://github.com/wjb108/Taco-Order-System)
 
 
