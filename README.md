@@ -15,17 +15,17 @@ I have two weeks left as a full-time fellow in General Asembly's Software Engine
 🥡 [Taco Order System](https://github.com/wjb108/Taco-Order-System)
 
 
-- 🔭 I’m currently building with a team of creatives: 
+🔭 I’m currently building with a team of creatives: 
   
   🛍️ 🛒 [Localsumer](https://www.localsumer.com/) 
   
   💻 🖌️ [Flekora](https://weareflekora.com/) 
   
   💳 💥 [Lanissimo](https://lanissimo.com/) 
-- 🌱 I’m learning and growing
-- 📫 How to reach me: [Twitter](https://twitter.com/WILLBENEDICT) [Linkedin](https://www.linkedin.com/in/willbenedict/)
-- 😄 Pronouns: he/him
-- ⚡ Fun fact: 🥐 Baker 🍞 Fluent in Spanish and Italian 🌎 Lived abroad for 5 years 
+🌱 I’m learning and growing
+📫 How to reach me: [Twitter](https://twitter.com/WILLBENEDICT) [Linkedin](https://www.linkedin.com/in/willbenedict/)
+😄 Pronouns: he/him
+⚡ Fun fact: 🥐 Baker 🍞 Fluent in Spanish and Italian 🌎 Lived abroad for 5 years 
 
 <!--- 
 - 👯 I’m looking to collaborate on ...
