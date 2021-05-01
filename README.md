@@ -20,7 +20,8 @@ I have two weeks left as a full-time fellow in General Asembly's Software Engine
 
 ### Startups currently building with a team of creatives: 
   
-  🛍️ [Localsumer](https://www.localsumer.com/) 
+  🛍️ [Localsumer](https://www.localsumer.com/) The go-to platform for consumers to discover all the local products and services in their city and the frictionless onboard ramp to the digital economy, ecommerce, and formal credit for small businesses.
+
   
   🖌️ [Flekora](https://weareflekora.com/) 
   
