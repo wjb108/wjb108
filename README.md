@@ -14,7 +14,7 @@ I have two weeks left as a full-time fellow in General Asembly's Software Engine
 
 🥡 [Taco Order System](https://github.com/wjb108/Taco-Order-System)
 
-In parallel
+
 - 🔭 I’m currently building with a team of creatives: 
   
   🛍️ 🛒 [Localsumer](https://www.localsumer.com/) 
