@@ -1,9 +1,12 @@
 [![Header](https://media-exp1.licdn.com/dms/image/C4E16AQEXibX7-blpxw/profile-displaybackgroundimage-shrink_350_1400/0/1588017759908?e=1625097600&v=beta&t=-TG-6e55YRj2S4rgwKSJD4otk5n0yCoUJMLsJVMGw60 "Header")](https://www.linkedin.com/in/willbenedict/)
 
 ### Hi there 👋
-I'm a trilingual software engineer and fintech aficionado leveraging experience in research analytics with a strong interest in building digital services that create social impact. I am a detail-oriented analytical person with a background in startups, credit research, equity markets, and oil & gas and mining sector project financing in Italy, Mexico, and Colombia. My recent focus is on building digital services for emerging markets.
+I'm a trilingual software engineer and fintech aficionado with a strong interest in building digital services that create social impact. I am a detail-oriented analytical person with a background in startups, credit research, equity markets, and oil & gas and mining sector project financing in Italy, Mexico, and Colombia. My recent focus is on building digital services for emerging markets, in particular Mexico.
 
-I have two weeks left as a full-time fellow in General Asembly's Software Engineering Immersive program that utilizes hands-on approach to build full-stack web applications with the MongoDB, Express, React, Node (MERN) stack. 
+I have two weeks left as a full-time fellow in General Asembly's Software Engineering Immersive program, that teaches how to build full-stack web applications with the MongoDB, Express, React, Node (MERN) stack. ### Projects 
+📍 [Render a Dynamic Map](https://github.com/wjb108/Mapbox-Dynamic-Map-API)
+🥡 [Taco Order System](https://github.com/wjb108/Taco-Order-System)
+
 
 I'm looking for full or part-time role as a software engineer at a mission driven company that fully embraces remote work. 
 
