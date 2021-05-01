@@ -5,7 +5,7 @@ I'm a software engineer leveraging experience in research analytics with a stron
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently building 🛍️🛒[Localsumer](https://www.localsumer.com/) 💻[🖌️Flekora](https://weareflekora.com/) 💳💥[Lanissimo](https://lanissimo.com/) 
+- 🔭 I’m currently building 🛍️🛒 [Localsumer](https://www.localsumer.com/) 💻🖌️ [Flekora](https://weareflekora.com/) 💳💥 [Lanissimo](https://lanissimo.com/) 
 - 🌱 I’m currently learning to build full-stack web applications 
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
