@@ -18,7 +18,7 @@ I have two weeks left as a full-time fellow in General Asembly's Software Engine
 🥡 [Taco Order System](https://github.com/wjb108/Taco-Order-System)
 
 
-With my best friends we are building 👇
+Building with my best friends 👇
   
   🛍️ [Localsumer](https://www.localsumer.com/): The go-to platform for consumers to discover all the local products and services in their city and the frictionless onboard ramp to the digital economy, ecommerce, and formal credit for small businesses.
 
