@@ -11,14 +11,14 @@ I'm looking for full or part-time role as a software engineer at a mission drive
 
 I have two weeks left as a full-time fellow in General Asembly's Software Engineering Immersive program, that has taught me how to build full-stack web applications with the MongoDB, Express, React, Node stack. 
 
-### School Projects 
+Projects 1-week sprints
 
 📍 [Render a Dynamic Map](https://github.com/wjb108/Mapbox-Dynamic-Map-API)
 
 🥡 [Taco Order System](https://github.com/wjb108/Taco-Order-System)
 
 
-### Building
+With my best friends we are building 👇
   
   🛍️ [Localsumer](https://www.localsumer.com/): The go-to platform for consumers to discover all the local products and services in their city and the frictionless onboard ramp to the digital economy, ecommerce, and formal credit for small businesses.
 
