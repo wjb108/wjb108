@@ -29,7 +29,7 @@ Building with my best friends 👇
 
 😄 Pronouns: he/him
 
-📫 How to reach me: [Linkedin](https://www.linkedin.com/in/willbenedict/)
+🏅 Career Experience: [Linkedin](https://www.linkedin.com/in/willbenedict/)
 
 ⚡ Fun fact: 🥐 Baker 🍞 Fluent in Spanish and Italian 🌎 Lived abroad for 5 years 
 
