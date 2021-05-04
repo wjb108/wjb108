@@ -11,7 +11,7 @@ I'm looking for full or part-time role as a software engineer at a mission drive
 
 I have two weeks left as a full-time fellow in General Asembly's Software Engineering Immersive program, that has taught me how to build full-stack web applications with the MongoDB, Express, React, Node stack. 
 
-Projects 1-week sprints
+1-week project sprints
 
 📍 [Render a Dynamic Map](https://github.com/wjb108/Mapbox-Dynamic-Map-API)
 
