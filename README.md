@@ -20,7 +20,7 @@ I have two weeks left as a full-time fellow in General Asembly's Software Engine
 
 Building with my best friends 👇
   
-  🛍️ [Localsumer](https://www.localsumer.com/): The go-to platform for consumers to discover all the local products and services in their city and the frictionless onboard ramp to the digital economy, ecommerce, and formal credit for small businesses.
+  🛍️ [Localsumer](https://www.localsumer.com/): The go-to platform for consumers to discover all the local products and services in their city and the frictionless onboard ramp to the digital economy, ecommerce, and formal credit for micro and small businesses in emerging markets.
 
   
   🖌️ [Flekora](https://weareflekora.com/): A boutique design agency that solves business problems with custom design solutions.
