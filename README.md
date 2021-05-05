@@ -10,7 +10,7 @@ My focus has been on building digital services for emerging markets, in particul
 
 I have two weeks left as a full-time fellow in General Asembly's Software Engineering Immersive program, that has taught me how to build full-stack web applications with the MongoDB, Express, React, Node stack. 
 
-1-week project sprints
+1-week sprints
 
 📍 [Render a Dynamic Map](https://github.com/wjb108/Mapbox-Dynamic-Map-API)
 
