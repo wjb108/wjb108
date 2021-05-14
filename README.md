@@ -8,7 +8,7 @@ I'm a trilingual software engineer and fintech aficionado with a strong interest
 My focus has been on building digital services for emerging markets, in particular Mexico.
 --->
 
-I have two weeks left as a full-time fellow in General Asembly's Software Engineering Immersive program, that has taught me how to build full-stack web applications with the MongoDB, Express, React, Node stack. 
+I have one week left as a full-time fellow in General Asembly's Software Engineering Immersive program, that has taught me how to build full-stack web applications with the MongoDB, Express, React, Node stack. 
 
 1-week sprints
 
