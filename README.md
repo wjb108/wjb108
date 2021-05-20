@@ -10,7 +10,7 @@ My focus has been on building digital services for emerging markets, in particul
 
 I recently graduated from General Asembly's Software Engineering Immersive program. 
 
-1-week sprints
+1-week project sprints
 
 📍 [Render a Dynamic Map](https://github.com/wjb108/Mapbox-Dynamic-Map-API)
 
