@@ -2,7 +2,7 @@
 
 ### Hi there 👋
 
-I'm a trilingual software engineer and fintech aficionado with a strong interest in building digital services that create social impact. I am a detail-oriented analytical person with a background in credit research, equity markets, and oil & gas and mining sectors. 
+I'm a trilingual software engineer and fintech aficionado with a strong interest in building digital services that create social impact.
 
 <!--- 
 My focus has been on building digital services for emerging markets, in particular Mexico.
