@@ -23,7 +23,6 @@ Thank you for your time and consideration.
 
 
 Will
---
 
 😄 Pronouns: he/him
 
