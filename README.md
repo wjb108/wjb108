@@ -8,15 +8,22 @@ I'm a trilingual software engineer and fintech aficionado with a strong interest
 My focus has been on building digital services for emerging markets, in particular Mexico.
 --->
 
-I recently graduated from General Asembly's Software Engineering Immersive program. 
+I bring my love of learning, grit, and international experience to the table, leveraging my background in research analytics in credit research, equity markets, and project financing. More recently, I co-founded a boutique design agency and am in the process of building two early stage startups. Seeing the evolution of app development for these projects really inspired me and was the impetus to go back to school, so I too could contribute in developing applications that can have a social impact.
 
-1-week project sprints
+Before I knew it, General Asembly's Software Engineering Immersive 12 week program was over in a flash. I built web apps with real-world applications such as a dynamic map generator 
+📍 [Render a Dynamic Map](https://github.com/wjb108/Mapbox-Dynamic-Map-API), order placement sytem 🥡 [Taco Order System](https://github.com/wjb108/Taco-Order-System), and a marketplace 🧳 [Bazar App](https://github.com/wjb108/Bazar). I know I have found my calling in development, a great balance of math, logic, and creativity. 
 
-📍 [Render a Dynamic Map](https://github.com/wjb108/Mapbox-Dynamic-Map-API)
+I am proud to have mastered two foreign languages Spanish and Italian and have a track record of rapidly learning new languges that with my dedication and consistency evolve into mastery. To quote, the former Italian managing director of the oil company I worked for, “On his arrival to Italy, he was incredibly fluent in Italian, difficult to believe he achieved that level in only three months of self-studying.” 
 
-🥡 [Taco Order System](https://github.com/wjb108/Taco-Order-System)
+Development has many similar attributes to learning spoken languages such as pattern recognition, syntax/grammar, new vocabulary, trial and error, and constant learning over the years. I am a motivated and capable learner that looks forward to learning and personal growth as a developer.
 
-🧳 [Bazar App](https://github.com/wjb108/Bazar)
+I look forward to discussing this opportunity further. 
+ 
+Thank you for your time and consideration.
+
+
+Will
+
 
 
 Building with my best friends 👇
