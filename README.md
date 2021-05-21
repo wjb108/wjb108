@@ -15,12 +15,9 @@ Before I knew it, General Asembly's Software Engineering Immersive 12 week progr
 
 I am proud to have mastered two foreign languages Spanish and Italian and have a track record of rapidly learning new languges that with my dedication and consistency evolve into mastery. To quote, the former Italian managing director of the oil company I worked for, “On his arrival to Italy, he was incredibly fluent in Italian, difficult to believe he achieved that level in only three months of self-studying.” 
 
-Development has many similar attributes to learning spoken languages such as pattern recognition, syntax/grammar, new vocabulary, trial and error, and constant learning over the years. I am a motivated and capable learner that looks forward to learning and personal growth as a developer.Career in Software Development
-
-I look forward to discussing this opportunity further. 
+Development has many similar attributes to learning spoken languages such as pattern recognition, syntax/grammar, new vocabulary, trial and error, and constant learning over the years. I am a motivated and capable learner that looks forward to learning and personal growth.
  
 Thank you for your time and consideration.
-
 
 Will
 
