@@ -16,6 +16,8 @@ I recently graduated from General Asembly's Software Engineering Immersive progr
 
 🥡 [Taco Order System](https://github.com/wjb108/Taco-Order-System)
 
+🧳 [Bazar App](https://github.com/wjb108/Bazar)
+
 
 Building with my best friends 👇
   
