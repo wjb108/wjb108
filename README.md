@@ -8,7 +8,7 @@ I'm a trilingual software engineer and fintech aficionado with a strong interest
 My focus has been on building digital services for emerging markets, in particular Mexico.
 --->
 
-I bring my love of learning, grit, and international experience to the table, leveraging my background in research analytics in credit research, equity markets, and project financing. More recently, I co-founded a boutique design agency and am in the process of building two early stage startups. Seeing the evolution of app development for these projects really inspired me and was the impetus to go back to school, so I too could contribute in developing applications that can have a social impact.
+I bring my love of learning, grit, and international experience to the table, leveraging my background in research analytics in credit research, equity markets, and project financing. More recently, I co-founded a boutique design agency 🖌️ [Flekora](https://weareflekora.com/) and am in the process of building two early stage startups: 🛍️ [Localsumer](https://www.localsumer.com/) and 💳 [Lanissimo](https://lanissimo.com/). Seeing the evolution of app development for these projects really inspired me and was the impetus to go back to school, so I too could contribute in developing applications that can have a social impact.
 
 Before I knew it, General Asembly's Software Engineering Immersive 12 week program was over in a flash. I built web apps with real-world applications such as
 📍 [Render a Dynamic Map](https://github.com/wjb108/Mapbox-Dynamic-Map-API), 🥡 [Taco Order System](https://github.com/wjb108/Taco-Order-System), and 🧳 [Bazar App](https://github.com/wjb108/Bazar). I know I have found my calling in development, a great balance of math, logic, and creativity. 
@@ -23,17 +23,7 @@ Thank you for your time and consideration.
 
 
 Will
-
-
-
-Building with my best friends 👇
-  
-  🛍️ [Localsumer](https://www.localsumer.com/): The go-to platform for consumers to discover all the local products and services in their city and the frictionless onboard ramp to the digital economy, ecommerce, and formal credit for micro and small businesses in emerging markets.
-
-  
-  🖌️ [Flekora](https://weareflekora.com/): A boutique design agency that solves business problems with custom design solutions.
-  
-  💳 [Lanissimo](https://lanissimo.com/): Consumer microloan subscription service for women in Mexico that builds formal credit history. 
+--
 
 😄 Pronouns: he/him
 
